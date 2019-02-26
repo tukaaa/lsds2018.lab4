@@ -27,7 +27,7 @@ public class SimplifiedTweet implements Serializable {
 
     public SimplifiedTweet(long tweetId, String text, long userId, String userName,
                            long followersCount, boolean isRetweeted,
-                           Long retweetedUserId, String retweetedUserName, long timestampMs, long lang) {
+                           Long retweetedUserId, String retweetedUserName, long timestampMs, String lang) {
         // TODO
     }
 
