@@ -30,10 +30,10 @@ public class TwitterAccumulators {
 
         JavaRDD<SimplifiedTweet> tweets = // LOAD and USE ACCUMULATORS to provide the following printouts
 
-        System.out.println("Total tweets: "); // TODO
-        System.out.println("Parsing attempts: "); // TODO
-        System.out.println("Failed attempts: "); // TODO
-        System.out.println("Erroring Tweets:"); // TODO
+        System.out.println("# Total tweets: "); // TODO
+        System.out.println("# Parsing attempts: "); // TODO
+        System.out.println("# Failed attempts: "); // TODO
+        System.out.println("Erroring Tweets content:"); // TODO
     }
 }
 
