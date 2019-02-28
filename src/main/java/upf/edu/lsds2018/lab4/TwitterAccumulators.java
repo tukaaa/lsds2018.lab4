@@ -32,7 +32,7 @@ public class TwitterAccumulators {
 
         System.out.println("Total tweets: "); // TODO
         System.out.println("Parsing attempts: "); // TODO
-        System.out.println("Successful attempts: "); // TODO
+        System.out.println("Failed attempts: "); // TODO
         System.out.println("Erroring Tweets:"); // TODO
     }
 }
