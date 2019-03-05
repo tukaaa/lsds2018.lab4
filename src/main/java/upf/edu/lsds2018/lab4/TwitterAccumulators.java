@@ -15,7 +15,6 @@ public class TwitterAccumulators {
 
     public static void main(String[] args) {
         String inputDir = args[0];
-        String outputDir = args[1];
 
         //Create a SparkContext to initialize
         SparkConf conf = new SparkConf().setAppName("Twitter Accumulators");
