@@ -27,7 +27,7 @@ public class TwitterJoin {
 
         final JavaPairRDD<String, String> mapISO639toLanguage = // TODO
 
-        JavaRDD<SimpleTweetWithLang> tweets = // TODO. Same as Lab3
+        JavaRDD<SimplifiedTweet> tweets = // TODO. Same as Lab3
 
         // Check it you can get the same output as the previous step
         final JavaPairRDD<String, Integer> countByLanguage = // TODO
